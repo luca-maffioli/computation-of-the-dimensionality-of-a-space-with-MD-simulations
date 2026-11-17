@@ -1,1 +1,0 @@
-# computation-of-the-dimensionality-of-a-space-with-MD-simulations
